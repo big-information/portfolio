@@ -4,9 +4,9 @@
 }
 
 .text-primary {
-    color: #4262FF;
+    color: #4262FF !important;
 }
 
 .btn-primary {
-    background-color: #4262FF;
+    background-color: #4262FF !important;
 }
