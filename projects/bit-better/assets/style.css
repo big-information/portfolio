@@ -1,0 +1,12 @@
+* {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    color: #333333;
+}
+
+.text-primary {
+    color: #4262FF;
+}
+
+.btn-primary {
+    background-color: #4262FF;
+}
