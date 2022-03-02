@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <!-- Bootstrap icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+
+    <!-- Custom CSS -->
+    <link href="assets/style.css" rel="stylesheet">
+
+    <!-- Google Fonts: Atkinson Hyperlegible -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
+    <title>Notifications</title>
+  </head>
+  <body>
+    <div class="container">
+        <div class="text-center my-3">
+            <h1 class="fw-bold">Turn on notifications?</h1>
+            <p>Get a reminder each day to reflect on whether you completed your goals</p>
+        </div> 
+        <div class="d-flex justify-content-center align-items-center mt-5">
+            <div class="form-check form-switch me-4">
+                <input class="form-check-input" type="checkbox" id="switch">
+                <label class="form-check-label" for="switch">Notifications</label>
+            </div>
+            <select id="select-time" class="form-select form-select-sm" aria-label="Default select example" disabled>
+                <option>12 AM</option>
+                <option>1 AM</option>
+                <option>2 AM</option>
+                <option>3 AM</option>
+                <option>4 AM</option>
+                <option>5 AM</option>
+                <option>6 AM</option>
+                <option>7 AM</option>
+                <option>8 AM</option>
+                <option>9 AM</option>
+                <option>10 AM</option>
+                <option>11 AM</option>
+                <option>12 PM</option>
+                <option>1 PM</option>
+                <option>2 PM</option>
+                <option>3 PM</option>
+                <option>4 PM</option>
+                <option>5 PM</option>
+                <option>6 PM</option>
+                <option>7 PM</option>
+                <option selected>8 PM</option>
+                <option>9 PM</option>
+                <option>10 PM</option>
+                <option>11 PM</option>
+              </select>
+        </div>
+        <div class="fixed-bottom">
+            <div class="d-flex justify-content-end">
+                <button type="button" class="btn btn-primary rounded m-4 shadow"><i class="bi bi-chevron-right text-white display-5"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootstrap JS -->    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+    <script>
+        $('#switch').click( function() {
+            if ($("#select-time").prop('disabled') == false) {
+                $("#select-time").prop('disabled', true)
+            } else {
+                $("#select-time").prop('disabled',false)
+            }
+        } );
+    </script>
+
+  </body>
+
+</html>
