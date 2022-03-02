@@ -1,0 +1,114 @@
+* {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    color: #333333;
+}
+
+.text-primary {
+    color: #4262FF !important;
+}
+
+.btn-primary {
+    background-color: #4262FF !important;
+}
+
+.bg-primary {
+    background-color: #4262FF !important;
+}
+
+.btn-outline-primary {
+    border-color: #4262FF !important;
+    color: #4262FF !important;
+}
+
+label.btn-primary {
+    border-color: #4262FF !important;
+    color: #4262FF !important;
+    background-color: white !important;
+}
+
+input.btn-check:checked + label.btn-primary {
+    color: #FFFFFF !important;
+    background-color: #4262FF !important;
+}
+
+input.checkoff + label {
+    position: relative;
+}
+
+input.checkoff:checked + label {
+    position: relative;
+}
+
+input.checkoff + label::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 1px;
+    background-color: #4262FF;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transition: width 150ms ease-in-out;
+}
+
+input.checkoff:checked + label::after {
+    width: 100%;
+}
+
+.card-collapse:not(.collapsed) span {
+    color: #333333 !important;
+    /*text-decoration: underline !important;
+    text-decoration-thickness: .2rem !important;
+    text-decoration-color: #4262FF !important;*/
+    /*background-color: 	rgba(6, 45, 243, 0.3) !important;*/
+    /*border-color: 	rgba(66, 98, 255, .5) !important;*/
+}
+
+.form-control:focus {
+    border-color: #4262FF !important;
+    box-shadow: 0 0 0 0.25rem rgba(6, 45, 243, 0.3) !important;
+}
+
+.form-check-input:checked {
+    background-color: #4262FF !important;
+    border-color: #4262FF !important;
+}
+
+.form-select:focus {
+    border-color: #4262FF !important;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(6, 45, 243, 0.3) !important;
+}
+.form-select:disabled {
+    color: #6C757D;
+}
+
+.bi-chevron-right::before, .bi-chevron-left::before, .bi-x-lg::before{
+    font-weight: bold !important;
+}
+
+.progress {
+    height: 3px !important;
+    background-color: #949494;
+}
+
+.nav-link {
+    color: #4262FF !important;
+}
+
+.nav-link.active  {
+    color: #FFFFFF !important;
+}
+
+.nav-link.disabled {
+    color: #6c757d !important;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #4262FF;
+}
+
+/*.card-collapse:not(.collapsed) span::before {
+    content: "⬤ ";
+    color: #4262FF;
+}*/
