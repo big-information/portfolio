@@ -31,6 +31,10 @@ input.btn-check:checked + label.btn-primary {
     background-color: #4262FF !important;
 }
 
+.card-body {
+    padding: 1rem !important;
+}
+
 .card-collapse:not(.collapsed) span {
     color: #333333 !important;
     text-decoration: underline !important;
