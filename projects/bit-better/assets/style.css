@@ -31,10 +31,6 @@ input.btn-check:checked + label.btn-primary {
     background-color: #4262FF !important;
 }
 
-.card-body {
-    padding: 1rem !important;
-}
-
 .card-collapse:not(.collapsed) span {
     color: #333333 !important;
     /*text-decoration: underline !important;
@@ -59,9 +55,17 @@ input.btn-check:checked + label.btn-primary {
     outline: 0;
     box-shadow: 0 0 0 0.25rem rgba(6, 45, 243, 0.3) !important;
 }
+.form-select:disabled {
+    color: #6C757D;
+}
 
-.bi-chevron-right::before {
+.bi-chevron-right::before, .bi-chevron-left::before{
     font-weight: bold !important;
+}
+
+.progress {
+    height: 3px !important;
+    background-color: #949494;
 }
 
 /*.card-collapse:not(.collapsed) span::before {
