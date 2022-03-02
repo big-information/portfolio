@@ -1,0 +1,979 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="825.618" height="523" viewBox="0 0 825.618 523">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="825.618" height="520.347" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="811.742" height="522.66" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_11" data-name="Group 11" transform="translate(-868 -382.748)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="810" height="520" rx="4" transform="translate(875 382.748)" fill="#fff"/>
+    <line id="Line_5" data-name="Line 5" y1="46.253" x2="64.754" transform="translate(889.97 842.149)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_6" data-name="Line 6" y1="18.501" x2="46.253" transform="translate(954.725 823.648)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_7" data-name="Line 7" x1="39.315" y2="30.065" transform="translate(1000.978 793.584)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_8" data-name="Line 8" y1="53.191" x2="104.069" transform="translate(1040.293 740.393)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_9" data-name="Line 9" x1="48.566" y1="41.628" transform="translate(1144.362 740.393)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_10" data-name="Line 10" y1="41.628" x2="43.94" transform="translate(1192.928 740.393)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_11" data-name="Line 11" x1="27.752" y2="16.189" transform="translate(1236.868 724.204)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_12" data-name="Line 12" y1="43.94" x2="32.377" transform="translate(1264.62 680.264)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_13" data-name="Line 13" x1="85.568" y2="78.63" transform="translate(1296.997 601.633)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_14" data-name="Line 14" y1="16.189" x2="46.253" transform="translate(1382.566 585.445)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_15" data-name="Line 15" x1="27.752" y2="16.189" transform="translate(1428.819 569.256)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_16" data-name="Line 16" y1="25.439" x2="39.315" transform="translate(1456.571 543.817)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_17" data-name="Line 17" x1="34.69" y2="11.563" transform="translate(1495.886 532.254)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_18" data-name="Line 18" x2="16.189" y2="53.191" transform="translate(1530.576 532.254)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <line id="Line_19" data-name="Line 19" x1="115.633" y2="90.194" transform="translate(1546.764 495.251)" fill="none" stroke="#4262ff" stroke-linecap="round" stroke-width="12"/>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(868 384.244)" clip-path="url(#clip-path)">
+      <g transform="translate(-891 -383.5)">
+        <line id="Line_20" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-870 -383.5)">
+        <line id="Line_20-2" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-849 -383.5)">
+        <line id="Line_20-3" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-828 -383.5)">
+        <line id="Line_20-4" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-807 -383.5)">
+        <line id="Line_20-5" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-786 -383.5)">
+        <line id="Line_20-6" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-765 -383.5)">
+        <line id="Line_20-7" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-744 -383.5)">
+        <line id="Line_20-8" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-723 -383.5)">
+        <line id="Line_20-9" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-702 -383.5)">
+        <line id="Line_20-10" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-681 -383.5)">
+        <line id="Line_20-11" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-660 -383.5)">
+        <line id="Line_20-12" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-639 -383.5)">
+        <line id="Line_20-13" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-618 -383.5)">
+        <line id="Line_20-14" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-597 -383.5)">
+        <line id="Line_20-15" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-576 -383.5)">
+        <line id="Line_20-16" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-555 -383.5)">
+        <line id="Line_20-17" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-534 -383.5)">
+        <line id="Line_20-18" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-513 -383.5)">
+        <line id="Line_20-19" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-492 -383.5)">
+        <line id="Line_20-20" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-471 -383.5)">
+        <line id="Line_20-21" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-450 -383.5)">
+        <line id="Line_20-22" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-429 -383.5)">
+        <line id="Line_20-23" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-408 -383.5)">
+        <line id="Line_20-24" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-387 -383.5)">
+        <line id="Line_20-25" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-366 -383.5)">
+        <line id="Line_20-26" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-345 -383.5)">
+        <line id="Line_20-27" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-324 -383.5)">
+        <line id="Line_20-28" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-303 -383.5)">
+        <line id="Line_20-29" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-282 -383.5)">
+        <line id="Line_20-30" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-261 -383.5)">
+        <line id="Line_20-31" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-240 -383.5)">
+        <line id="Line_20-32" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-219 -383.5)">
+        <line id="Line_20-33" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-198 -383.5)">
+        <line id="Line_20-34" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-177 -383.5)">
+        <line id="Line_20-35" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-156 -383.5)">
+        <line id="Line_20-36" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-135 -383.5)">
+        <line id="Line_20-37" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-114 -383.5)">
+        <line id="Line_20-38" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-93 -383.5)">
+        <line id="Line_20-39" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-72 -383.5)">
+        <line id="Line_20-40" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-891 -138.5)">
+        <line id="Line_20-41" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-870 -138.5)">
+        <line id="Line_20-42" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-849 -138.5)">
+        <line id="Line_20-43" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-828 -138.5)">
+        <line id="Line_20-44" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-807 -138.5)">
+        <line id="Line_20-45" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-786 -138.5)">
+        <line id="Line_20-46" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-765 -138.5)">
+        <line id="Line_20-47" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-744 -138.5)">
+        <line id="Line_20-48" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-723 -138.5)">
+        <line id="Line_20-49" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-702 -138.5)">
+        <line id="Line_20-50" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-681 -138.5)">
+        <line id="Line_20-51" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-660 -138.5)">
+        <line id="Line_20-52" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-639 -138.5)">
+        <line id="Line_20-53" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-618 -138.5)">
+        <line id="Line_20-54" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-597 -138.5)">
+        <line id="Line_20-55" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-576 -138.5)">
+        <line id="Line_20-56" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-555 -138.5)">
+        <line id="Line_20-57" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-534 -138.5)">
+        <line id="Line_20-58" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-513 -138.5)">
+        <line id="Line_20-59" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-492 -138.5)">
+        <line id="Line_20-60" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-471 -138.5)">
+        <line id="Line_20-61" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-450 -138.5)">
+        <line id="Line_20-62" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-429 -138.5)">
+        <line id="Line_20-63" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-408 -138.5)">
+        <line id="Line_20-64" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-387 -138.5)">
+        <line id="Line_20-65" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-366 -138.5)">
+        <line id="Line_20-66" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-345 -138.5)">
+        <line id="Line_20-67" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-324 -138.5)">
+        <line id="Line_20-68" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-303 -138.5)">
+        <line id="Line_20-69" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-282 -138.5)">
+        <line id="Line_20-70" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-261 -138.5)">
+        <line id="Line_20-71" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-240 -138.5)">
+        <line id="Line_20-72" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-219 -138.5)">
+        <line id="Line_20-73" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-198 -138.5)">
+        <line id="Line_20-74" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-177 -138.5)">
+        <line id="Line_20-75" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-156 -138.5)">
+        <line id="Line_20-76" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-135 -138.5)">
+        <line id="Line_20-77" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-114 -138.5)">
+        <line id="Line_20-78" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-93 -138.5)">
+        <line id="Line_20-79" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-72 -138.5)">
+        <line id="Line_20-80" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-891 106.5)">
+        <line id="Line_20-81" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-870 106.5)">
+        <line id="Line_20-82" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-849 106.5)">
+        <line id="Line_20-83" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-828 106.5)">
+        <line id="Line_20-84" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-807 106.5)">
+        <line id="Line_20-85" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-786 106.5)">
+        <line id="Line_20-86" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-765 106.5)">
+        <line id="Line_20-87" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-744 106.5)">
+        <line id="Line_20-88" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-723 106.5)">
+        <line id="Line_20-89" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-702 106.5)">
+        <line id="Line_20-90" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-681 106.5)">
+        <line id="Line_20-91" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-660 106.5)">
+        <line id="Line_20-92" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-639 106.5)">
+        <line id="Line_20-93" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-618 106.5)">
+        <line id="Line_20-94" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-597 106.5)">
+        <line id="Line_20-95" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-576 106.5)">
+        <line id="Line_20-96" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-555 106.5)">
+        <line id="Line_20-97" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-534 106.5)">
+        <line id="Line_20-98" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-513 106.5)">
+        <line id="Line_20-99" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-492 106.5)">
+        <line id="Line_20-100" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-471 106.5)">
+        <line id="Line_20-101" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-450 106.5)">
+        <line id="Line_20-102" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-429 106.5)">
+        <line id="Line_20-103" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-408 106.5)">
+        <line id="Line_20-104" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-387 106.5)">
+        <line id="Line_20-105" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-366 106.5)">
+        <line id="Line_20-106" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-345 106.5)">
+        <line id="Line_20-107" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-324 106.5)">
+        <line id="Line_20-108" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-303 106.5)">
+        <line id="Line_20-109" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-282 106.5)">
+        <line id="Line_20-110" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-261 106.5)">
+        <line id="Line_20-111" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-240 106.5)">
+        <line id="Line_20-112" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-219 106.5)">
+        <line id="Line_20-113" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-198 106.5)">
+        <line id="Line_20-114" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-177 106.5)">
+        <line id="Line_20-115" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-156 106.5)">
+        <line id="Line_20-116" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-135 106.5)">
+        <line id="Line_20-117" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-114 106.5)">
+        <line id="Line_20-118" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-93 106.5)">
+        <line id="Line_20-119" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-72 106.5)">
+        <line id="Line_20-120" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(868 384.244)" clip-path="url(#clip-path)">
+      <g transform="translate(-891 -383.5)">
+        <line id="Line_20-121" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-870 -383.5)">
+        <line id="Line_20-122" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-849 -383.5)">
+        <line id="Line_20-123" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-828 -383.5)">
+        <line id="Line_20-124" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-807 -383.5)">
+        <line id="Line_20-125" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-786 -383.5)">
+        <line id="Line_20-126" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-765 -383.5)">
+        <line id="Line_20-127" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-744 -383.5)">
+        <line id="Line_20-128" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-723 -383.5)">
+        <line id="Line_20-129" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-702 -383.5)">
+        <line id="Line_20-130" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-681 -383.5)">
+        <line id="Line_20-131" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-660 -383.5)">
+        <line id="Line_20-132" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-639 -383.5)">
+        <line id="Line_20-133" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-618 -383.5)">
+        <line id="Line_20-134" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-597 -383.5)">
+        <line id="Line_20-135" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-576 -383.5)">
+        <line id="Line_20-136" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-555 -383.5)">
+        <line id="Line_20-137" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-534 -383.5)">
+        <line id="Line_20-138" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-513 -383.5)">
+        <line id="Line_20-139" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-492 -383.5)">
+        <line id="Line_20-140" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-471 -383.5)">
+        <line id="Line_20-141" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-450 -383.5)">
+        <line id="Line_20-142" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-429 -383.5)">
+        <line id="Line_20-143" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-408 -383.5)">
+        <line id="Line_20-144" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-387 -383.5)">
+        <line id="Line_20-145" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-366 -383.5)">
+        <line id="Line_20-146" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-345 -383.5)">
+        <line id="Line_20-147" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-324 -383.5)">
+        <line id="Line_20-148" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-303 -383.5)">
+        <line id="Line_20-149" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-282 -383.5)">
+        <line id="Line_20-150" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-261 -383.5)">
+        <line id="Line_20-151" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-240 -383.5)">
+        <line id="Line_20-152" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-219 -383.5)">
+        <line id="Line_20-153" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-198 -383.5)">
+        <line id="Line_20-154" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-177 -383.5)">
+        <line id="Line_20-155" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-156 -383.5)">
+        <line id="Line_20-156" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-135 -383.5)">
+        <line id="Line_20-157" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-114 -383.5)">
+        <line id="Line_20-158" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-93 -383.5)">
+        <line id="Line_20-159" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-72 -383.5)">
+        <line id="Line_20-160" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-891 -138.5)">
+        <line id="Line_20-161" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-870 -138.5)">
+        <line id="Line_20-162" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-849 -138.5)">
+        <line id="Line_20-163" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-828 -138.5)">
+        <line id="Line_20-164" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-807 -138.5)">
+        <line id="Line_20-165" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-786 -138.5)">
+        <line id="Line_20-166" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-765 -138.5)">
+        <line id="Line_20-167" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-744 -138.5)">
+        <line id="Line_20-168" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-723 -138.5)">
+        <line id="Line_20-169" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-702 -138.5)">
+        <line id="Line_20-170" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-681 -138.5)">
+        <line id="Line_20-171" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-660 -138.5)">
+        <line id="Line_20-172" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-639 -138.5)">
+        <line id="Line_20-173" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-618 -138.5)">
+        <line id="Line_20-174" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-597 -138.5)">
+        <line id="Line_20-175" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-576 -138.5)">
+        <line id="Line_20-176" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-555 -138.5)">
+        <line id="Line_20-177" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-534 -138.5)">
+        <line id="Line_20-178" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-513 -138.5)">
+        <line id="Line_20-179" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-492 -138.5)">
+        <line id="Line_20-180" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-471 -138.5)">
+        <line id="Line_20-181" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-450 -138.5)">
+        <line id="Line_20-182" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-429 -138.5)">
+        <line id="Line_20-183" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-408 -138.5)">
+        <line id="Line_20-184" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-387 -138.5)">
+        <line id="Line_20-185" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-366 -138.5)">
+        <line id="Line_20-186" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-345 -138.5)">
+        <line id="Line_20-187" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-324 -138.5)">
+        <line id="Line_20-188" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-303 -138.5)">
+        <line id="Line_20-189" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-282 -138.5)">
+        <line id="Line_20-190" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-261 -138.5)">
+        <line id="Line_20-191" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-240 -138.5)">
+        <line id="Line_20-192" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-219 -138.5)">
+        <line id="Line_20-193" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-198 -138.5)">
+        <line id="Line_20-194" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-177 -138.5)">
+        <line id="Line_20-195" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-156 -138.5)">
+        <line id="Line_20-196" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-135 -138.5)">
+        <line id="Line_20-197" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-114 -138.5)">
+        <line id="Line_20-198" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-93 -138.5)">
+        <line id="Line_20-199" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-72 -138.5)">
+        <line id="Line_20-200" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-891 106.5)">
+        <line id="Line_20-201" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-870 106.5)">
+        <line id="Line_20-202" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-849 106.5)">
+        <line id="Line_20-203" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-828 106.5)">
+        <line id="Line_20-204" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-807 106.5)">
+        <line id="Line_20-205" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-786 106.5)">
+        <line id="Line_20-206" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-765 106.5)">
+        <line id="Line_20-207" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-744 106.5)">
+        <line id="Line_20-208" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-723 106.5)">
+        <line id="Line_20-209" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-702 106.5)">
+        <line id="Line_20-210" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-681 106.5)">
+        <line id="Line_20-211" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-660 106.5)">
+        <line id="Line_20-212" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-639 106.5)">
+        <line id="Line_20-213" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-618 106.5)">
+        <line id="Line_20-214" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-597 106.5)">
+        <line id="Line_20-215" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-576 106.5)">
+        <line id="Line_20-216" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-555 106.5)">
+        <line id="Line_20-217" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-534 106.5)">
+        <line id="Line_20-218" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-513 106.5)">
+        <line id="Line_20-219" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-492 106.5)">
+        <line id="Line_20-220" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-471 106.5)">
+        <line id="Line_20-221" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-450 106.5)">
+        <line id="Line_20-222" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-429 106.5)">
+        <line id="Line_20-223" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-408 106.5)">
+        <line id="Line_20-224" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-387 106.5)">
+        <line id="Line_20-225" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-366 106.5)">
+        <line id="Line_20-226" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-345 106.5)">
+        <line id="Line_20-227" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-324 106.5)">
+        <line id="Line_20-228" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-303 106.5)">
+        <line id="Line_20-229" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-282 106.5)">
+        <line id="Line_20-230" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-261 106.5)">
+        <line id="Line_20-231" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-240 106.5)">
+        <line id="Line_20-232" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-219 106.5)">
+        <line id="Line_20-233" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-198 106.5)">
+        <line id="Line_20-234" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-177 106.5)">
+        <line id="Line_20-235" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-156 106.5)">
+        <line id="Line_20-236" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-135 106.5)">
+        <line id="Line_20-237" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-114 106.5)">
+        <line id="Line_20-238" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-93 106.5)">
+        <line id="Line_20-239" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-72 106.5)">
+        <line id="Line_20-240" data-name="Line 20" y2="225" transform="translate(891.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_3" data-name="Repeat Grid 3" transform="translate(876.094 383.087)" clip-path="url(#clip-path-3)">
+      <g transform="translate(-871.5 -383)">
+        <line id="Line_21" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -383)">
+        <line id="Line_21-2" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -383)">
+        <line id="Line_21-3" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -362)">
+        <line id="Line_21-4" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -362)">
+        <line id="Line_21-5" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -362)">
+        <line id="Line_21-6" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -341)">
+        <line id="Line_21-7" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -341)">
+        <line id="Line_21-8" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -341)">
+        <line id="Line_21-9" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -320)">
+        <line id="Line_21-10" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -320)">
+        <line id="Line_21-11" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -320)">
+        <line id="Line_21-12" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -299)">
+        <line id="Line_21-13" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -299)">
+        <line id="Line_21-14" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -299)">
+        <line id="Line_21-15" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -278)">
+        <line id="Line_21-16" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -278)">
+        <line id="Line_21-17" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -278)">
+        <line id="Line_21-18" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -257)">
+        <line id="Line_21-19" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -257)">
+        <line id="Line_21-20" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -257)">
+        <line id="Line_21-21" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -236)">
+        <line id="Line_21-22" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -236)">
+        <line id="Line_21-23" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -236)">
+        <line id="Line_21-24" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -215)">
+        <line id="Line_21-25" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -215)">
+        <line id="Line_21-26" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -215)">
+        <line id="Line_21-27" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -194)">
+        <line id="Line_21-28" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -194)">
+        <line id="Line_21-29" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -194)">
+        <line id="Line_21-30" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -173)">
+        <line id="Line_21-31" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -173)">
+        <line id="Line_21-32" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -173)">
+        <line id="Line_21-33" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -152)">
+        <line id="Line_21-34" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -152)">
+        <line id="Line_21-35" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -152)">
+        <line id="Line_21-36" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -131)">
+        <line id="Line_21-37" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -131)">
+        <line id="Line_21-38" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -131)">
+        <line id="Line_21-39" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -110)">
+        <line id="Line_21-40" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -110)">
+        <line id="Line_21-41" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -110)">
+        <line id="Line_21-42" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -89)">
+        <line id="Line_21-43" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -89)">
+        <line id="Line_21-44" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -89)">
+        <line id="Line_21-45" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -68)">
+        <line id="Line_21-46" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -68)">
+        <line id="Line_21-47" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -68)">
+        <line id="Line_21-48" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -47)">
+        <line id="Line_21-49" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -47)">
+        <line id="Line_21-50" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -47)">
+        <line id="Line_21-51" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -26)">
+        <line id="Line_21-52" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -26)">
+        <line id="Line_21-53" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -26)">
+        <line id="Line_21-54" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 -5)">
+        <line id="Line_21-55" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 -5)">
+        <line id="Line_21-56" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 -5)">
+        <line id="Line_21-57" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 16)">
+        <line id="Line_21-58" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 16)">
+        <line id="Line_21-59" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 16)">
+        <line id="Line_21-60" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 37)">
+        <line id="Line_21-61" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 37)">
+        <line id="Line_21-62" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 37)">
+        <line id="Line_21-63" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 58)">
+        <line id="Line_21-64" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 58)">
+        <line id="Line_21-65" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 58)">
+        <line id="Line_21-66" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 79)">
+        <line id="Line_21-67" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 79)">
+        <line id="Line_21-68" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 79)">
+        <line id="Line_21-69" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 100)">
+        <line id="Line_21-70" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 100)">
+        <line id="Line_21-71" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 100)">
+        <line id="Line_21-72" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-871.5 121)">
+        <line id="Line_21-73" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-500.5 121)">
+        <line id="Line_21-74" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+      <g transform="translate(-129.5 121)">
+        <line id="Line_21-75" data-name="Line 21" x2="351" transform="translate(871.5 383.5)" fill="none" stroke="rgba(0,0,0,0.02)" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
