@@ -33,8 +33,8 @@
                     <button id="btn-custom-goal" class="btn btn-primary fw-bold shadow-sm" type="button">Add a custom goal</button>
                 </div>
                 <div id="card-custom-goal" class="card shadow-sm mb-2 d-none">
-                    <div class="card-body card-collapse collapsed rounded-top" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
-                        <input class="form-control fw-bold" type="text" placeholder="Custom goal" aria-label="default input example">                        
+                    <div id="card-custom" class="card-body card-collapse collapsed rounded-top" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-5" aria-expanded="false" aria-controls="collapse-5">
+                        <input id="custom-goal" class="form-control fw-bold" type="text" placeholder="Custom goal" aria-label="default input example">                        
                     </div>
                     <div class="card-footer p-0 border-0 bg-white">
                         <div class="collapse p-2 px-3 pt-0" id="collapse-5">
@@ -231,6 +231,9 @@
     <script>
         $('#btn-custom-goal').click( function() {
             $("#card-custom-goal").toggleClass("d-none");
+            $("#custom-goal").focus();
+            $("#card-custom").toggleClass("collapsed");
+            $("#collapse-5").toggleClass("show");
         } );
     </script>
 
