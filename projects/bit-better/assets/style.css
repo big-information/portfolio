@@ -1,6 +1,10 @@
-body {
+* {
     font-family: 'Atkinson Hyperlegible', sans-serif;
     color: #333333;
+}
+
+.container {
+    max-width: 720px !important;
 }
 
 .text-primary {
