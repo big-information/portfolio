@@ -1,0 +1,46 @@
+* {
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    color: #333333;
+}
+
+.text-primary {
+    color: #4262FF !important;
+}
+
+.btn-primary {
+    background-color: #4262FF !important;
+}
+
+.bg-primary {
+    background-color: #4262FF !important;
+}
+
+.btn-outline-primary {
+    border-color: #4262FF !important;
+    color: #4262FF !important;
+}
+
+label.btn-primary {
+    border-color: #4262FF !important;
+    color: #4262FF !important;
+    background-color: white !important;
+}
+
+input.btn-check:checked + label.btn-primary {
+    color: #FFFFFF !important;
+    background-color: #4262FF !important;
+}
+
+.card-collapse:not(.collapsed) span {
+    color: #333333 !important;
+    text-decoration: underline !important;
+    text-decoration-thickness: .2rem !important;
+    text-decoration-color: #4262FF !important;
+    /*background-color: 	rgba(6, 45, 243, 0.3) !important;*/
+    /*border-color: 	rgba(66, 98, 255, .5) !important;*/
+}
+
+/*.card-collapse:not(.collapsed) span::before {
+    content: "⬤ ";
+    color: #4262FF;
+}*/
