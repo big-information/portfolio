@@ -61,9 +61,9 @@ input.checkoff:checked + label::after {
 
 .card-collapse:not(.collapsed) span {
     color: #333333 !important;
-    /*text-decoration: underline !important;
+    text-decoration: underline !important;
     text-decoration-thickness: .2rem !important;
-    text-decoration-color: #4262FF !important;*/
+    text-decoration-color: #4262FF !important;
     /*background-color: 	rgba(6, 45, 243, 0.3) !important;*/
     /*border-color: 	rgba(66, 98, 255, .5) !important;*/
 }
@@ -87,7 +87,7 @@ input.checkoff:checked + label::after {
     color: #6C757D;
 }
 
-.bi-chevron-right::before, .bi-chevron-left::before, .bi-x-lg::before{
+.bi-chevron-right::before, .bi-chevron-left::before, .bi-chevron-down::before, .bi-x-lg::before, .bi-plus-lg::before{
     font-weight: bold !important;
 }
 
