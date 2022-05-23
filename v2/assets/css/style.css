@@ -1,0 +1,64 @@
+body {
+    background-image: url("../images/g8.jpg");
+    background-size: cover;
+}
+
+.blur {
+    /*backdrop-filter: blur(5px) contrast(.8) !important;*/
+    /*background-color: #ffffff7d;*/
+    backdrop-filter: blur(33px);
+    /*box-shadow: 0 10px 15px rgb(0 0 0 / 20%);*/
+    background: #423c5a80;
+    /*box-shadow: 0 10px 15px rgb(0 0 0 / 30%);*/
+}
+
+.blur-light {
+    backdrop-filter: blur(33px);
+    box-shadow: 0 10px 15px rgb(0 0 0 / 20%);
+    background-color: #ffffff7d;
+}
+
+/*.rounded-3 {
+    border-radius: .8rem !important;
+}*/
+
+.text-light {
+    color: #e9ecef !important;
+}
+
+.text-primary {
+    /*color: #52daf2
+    !important;*/
+}
+
+.btn:focus {
+    box-shadow: none !important;
+}
+
+.btn:focus-visible {
+    outline: 1px solid #FFF !important;
+}
+
+.box-shadow {
+    box-shadow: 0 10px 15px rgb(0 0 0 / 20%);
+}
+
+.border-top-right-0 {
+    border-top-right-radius: 0rem !important;
+}
+
+.border-top-left-0 {
+    border-top-left-radius: 0rem !important;
+}
+
+.border-bottom-right-0 {
+    border-bottom-right-radius: 0rem !important;
+}
+
+.border-bottom-left-0 {
+    border-bottom-left-radius: 0rem !important;
+}
+
+.list-group {
+    border-radius: .6rem !important;
+}
