@@ -27,33 +27,58 @@
     </ul>
 
     <div class="container">
-        <div class="row d-flex justify-content-center g-0 mt-5">
-            <div class="col-auto d-none" id="work-categories"> <!-- Add d-none here and adjust border-radius and content-main width styles on click between info and work-->
-                <div class="list-group h-100">
-                    <div class="list-group-item bg-dark h-100 border-top-right-0 border-bottom-right-0">
-                        <ul class="list-group list-group-flush mt-5">
-                            <li class="list-group-item bg-dark text-light border-0 px-md-0 px-lg-2">
-                                <i class="bi bi-briefcase-fill me-2 text-white-50"></i>Professional
-                            </li>
-                            <li class="list-group-item bg-dark text-light px-md-0 px-lg-2">
-                                <i class="bi bi-headset-vr me-2 text-white-50"></i>XR Prototyping
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div id="col-main" class="col col-md-8 col-lg-6 box-shadow">
-                <div class="list-group">
-                    <div id="container-main-0" class="list-group-item bg-dark">
+        <div class="row d-flex justify-content-center mt-5">
+            <div id="col-main" class="col col-md-10 col-lg-6 mb-5" style="transition: .5s !important;">
+                <div class="list-group box-shadow">
+                    <div class="list-group-item bg-dark">
                         <button class="btn btn-link text-light text-decoration-none" id="info"><span class="h2">Info</span></button><button class="btn btn-link text-white-50 text-decoration-none" id="work"><span class="h2">Work</span></button>
                     </div>
-                    <div id="container-main-1" class="list-group-item blur">
-                        <p class="text-light">
-                            I'm a UX designer, researcher, and front-end developer who's been at it for 5 years now and loving every minute. Currently I'm the UX Lead at RedMane Technology in Chicago, where I lead our UX projects and design initiatives. On a typical day this involves both enterprise product development and consulting projects, as well as taking advantage of the occasional opportunity to spread UX knowledge and capability throughout our company.
-                        </p>
-                        <p class="text-light">
-                            As you'll see in my projects, I love owning UX from start to finish. I can't tell you how much I enjoy the user research, ideation, rapid prototyping, and software development process, especially when it involves working with diverse teams on ambitious projects that push the limits to what seemed impossible - <em>until we did it!</em>
-                        </p>
+                    <div id="container-main-0" class="list-group-item rounded-bottom blur" style="min-height: 60vh;">
+                        <div class="content">
+                            <p class="text-light mt-2">
+                                I'm a UX designer, researcher, and front-end engineer with five years of experience. Currently I'm the UX Lead at RedMane Technology in Chicago, where I lead our UX projects and design initiatives. On a typical day this involves both enterprise product development and consulting projects, as well as taking advantage of the occasional opportunity to spread UX knowledge throughout our company and serving as a UX subject matter expert.
+                            </p>
+                            <p class="text-light">
+                                I enjoy working across every stage of the UX process: I'm equally at home when researching, ideating, rapid prototyping, and software engineering. I especially enjoy working with diverse teams on complex projects involving many stakeholders, as I find this creates an ideal environment for analytical creativity.
+                            </p>
+                            <p class="text-light">
+                                I'm always open to new and exciting opportunities, so if you would like to work together, let's get in touch!
+                            </p>
+                            <div class="d-flex align-items-center">
+                                <a class="text-light h4" href="https://www.linkedin.com/in/david-g-marcus/" target="_blank"><i class="bi bi-linkedin me-3"></i></a><a class="h3 text-light" href="mailto:davidmarcus@proton.me"><i class="bi bi-envelope-fill"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="container-main-1" class="list-group-item rounded-bottom blur d-none" style="min-height: 60vh;">
+                        <div class="content">
+                            <div class="card" style="width: 18rem;">
+                                <div class="card-body">
+                                    <h5 class="card-title">Card title</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="#" class="card-link">Card link</a>
+                                    <a href="#" class="card-link">Another link</a>
+                                </div>
+                            </div>
+                            <div class="card" style="width: 18rem;">
+                                <div class="card-body">
+                                    <h5 class="card-title">Card title</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="#" class="card-link">Card link</a>
+                                    <a href="#" class="card-link">Another link</a>
+                                </div>
+                            </div>
+                            <div class="card" style="width: 18rem;">
+                                <div class="card-body">
+                                    <h5 class="card-title">Card title</h5>
+                                    <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="#" class="card-link">Card link</a>
+                                    <a href="#" class="card-link">Another link</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -65,8 +90,9 @@
     </footer>
 
     <!--jQuery -->
-    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
+    <!-- JS -->
     <script src="assets/js/script.js"></script>
 
     <!-- Bootstrap Bundle with Popper -->
